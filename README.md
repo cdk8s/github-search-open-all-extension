@@ -1,5 +1,7 @@
 # github-search-open-all-extension
 
+- 支持新、旧 GitHub 搜索界面
+
 ## 演示效果（Gif）
 
 ![gif](images/gif.gif)
