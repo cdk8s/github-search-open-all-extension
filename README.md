@@ -1,2 +1,10 @@
 # github-search-open-all-extension
-支持快速打开 GitHub 搜索结果的 Chrome 浏览器扩展. Chrome Browser Extension that Supports Quickly Opening GitHub Search Results.
+
+## 演示效果（Gif）
+
+![gif](images/gif.gif)
+
+## 扩展下载
+
+- [下载地址](https://pan.baidu.com/s/1utuk3sc4VD1L23ezFZsP3w?pwd=b4rr)
+
